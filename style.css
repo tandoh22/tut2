@@ -54,11 +54,7 @@ label {
     margin-left: 5px;
     color: white;
 }
-a {
-    display: block;
-    text-align: center;
-    margin-top: 10px;
-    color: blue;
-    text-decoration: none;
+#remember {
+    margin-left: 5px;
+    margin-bottom: 20px;
 }
-
