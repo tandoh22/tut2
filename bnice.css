@@ -51,7 +51,7 @@ h3{
     margin-block-end: 1em;
     padding-inline-start: 2px;
 }
-.container .li {
+li {
     display: list-item;
     text-align: -webkit-match-parent;
     unicode-bidi: isolate;
@@ -62,4 +62,12 @@ h3{
     font-family: "Luckiest Guy", cursive;
     font-weight: 400;
     font-style: normal;
+}
+ul, ol{
+    list-style-type: none;
+}
+p{
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+
 }
