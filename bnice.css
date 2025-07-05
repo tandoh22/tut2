@@ -1,0 +1,14 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+form{
+    background-image: url(b1.jpg);
+    align-content: center;
+    background-blend-mode: darken;
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 20px;
+}
