@@ -12,3 +12,8 @@ form{
     border-radius: 10px;
     padding: 20px;
 }
+h2{
+    color: white;
+    font-family: url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+    font-size: 30px;
+}
